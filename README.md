@@ -2,8 +2,10 @@
 
 ***
 
-### :one:[Call External Programs](https://github.com/geophydog/Python/blob/master/Call-External-Programs/call.md)
+### :one:[python blogs](https://github.com/geophydog/Python/blob/master/python-learning-blogs.md)
+
+### :otwo:[Call External Programs](https://github.com/geophydog/Python/blob/master/Call-External-Programs/call.md)
 
 ***
 
-### :two:[Vurtualization](https://github.com/geophydog/Python/blob/master/Plots-Virtualiation/Nice-Virtualization.md)
+### :three:[Vurtualization](https://github.com/geophydog/Python/blob/master/Plots-Virtualiation/Nice-Virtualization.md)
