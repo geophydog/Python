@@ -1,4 +1,4 @@
-:hotel: [Return to Home Page](https://github.com/geophydog/geophydog.github.io/blob/master/README.md)
+:hotel: [Return to Home Page](https://github.com/geophydog/Python)
 ## 1.  不错的可视化
 [visualization universe](http://visualizationuniverse.com/)
 ***
