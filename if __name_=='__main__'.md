@@ -30,3 +30,8 @@ import test1
 if __name__ == '__main__':
     print("I am C!")
 ```
+__output__
+```
+I am A!
+I am C!
+```
