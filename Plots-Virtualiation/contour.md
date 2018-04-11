@@ -4,9 +4,27 @@
 
 # Question Discription
 ```
-ÔÚGMT(¨µØÇòÎïÀí³£ÓÃ»æÍ¼Èí¼ş£©ÖĞ£¬ÎÒÃÇ¿ÉÒÔ¸ù¾İ(x, y, value)ÏÈÓÃ'xyz2grd'½«ÕâÑù¸ñÊ½µÄµÄÎÄ±¾ÎÄ¼ş××ª»¯³É¶ş½øÖÆµÄÍø¸ñÎÄ¼ş£¬ÔÙÓÃ¡'grdiamge'ÃüÁî»­µÈÖµÏßÍ¼¡£
+åœ¨GMåœ°çƒç‰©ç†å¸¸ç”¨ç»˜å›¾è½¯ä»¶ï¼‰ä¸­ï¼Œ æˆ‘ä»¬å¯ä»¥å…ˆç”¨â€˜xyz2grdâ€™å°†å¦‚(x, y, value)è¿™æ ·æ ¼å¼çš„æ–‡æœ¬æ–‡ä»¶è½¬åŒ–æˆäºŒè¿›åˆ¶gridç½‘æ ¼æ–‡ä»¶ï¼Œ
+å†ç”¨'grdiamge'å‘½ä»¤ç”»ç­‰å€¼çº¿å›¾ã€‚ pythonä¸­matplotlib.pyplotä¹Ÿå¯ä»¥åšç›¸åº”çš„äº‹æƒ…ã€‚
 ```
 
 ***
 
 # Demo
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+def f(x, y):
+  return (-x/2+x**5+y**3)*np.exp(-x**2-y**2)
+
+x = np.linspace(-3, 3, 601)
+y = np.linspace(-3, 3, 601)
+
+X, Y = np.meshgrid(x, y)
+
+plt.contour(X, Y, f(X, Y), alpha=0.75, cmap=plt.cm.rainbow)
+plt.show()
+```
+
+![Demo]()
