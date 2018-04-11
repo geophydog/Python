@@ -27,4 +27,4 @@ plt.contour(X, Y, f(X, Y), alpha=0.75, cmap=plt.cm.rainbow)
 plt.show()
 ```
 
-![Demo](https://github.com/geophydog/Python/tree/master/Plots-Virtualiation/images/contour.png)
+![Demo picture](https://github.com/geophydog/Python/blob/master/Plots-Virtualiation/images/contour.png)
