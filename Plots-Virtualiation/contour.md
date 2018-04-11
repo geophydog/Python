@@ -23,7 +23,7 @@ y = np.linspace(-3, 3, 601)
 
 X, Y = np.meshgrid(x, y)
 
-plt.contour(X, Y, f(X, Y), alpha=0.75, cmap=plt.cm.rainbow)
+plt.contour(X, Y, f(X, Y), alpha=0.75, cmap=plt.cm.Accent)
 plt.show()
 ```
 
