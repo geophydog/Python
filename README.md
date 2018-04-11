@@ -15,3 +15,7 @@
 ***
 
 ### :four:[Python Open Libraries and Code Examples](https://github.com/geophydog/opensource/blob/master/libs/python.wiki))
+
+***
+
+### :five:[if __name__ == '__main__'](https://github.com/geophydog/Python/blob/master/if%20__name_%3D%3D'__main__'.md)
