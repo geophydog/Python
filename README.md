@@ -19,3 +19,7 @@
 ***
 
 ### :five:[if \_\_name__ == '\_\_main\_\_'](https://github.com/geophydog/Python/blob/master/if%20__name_%3D%3D'__main__'.md)
+
+***
+
+### :six:[InputManyLinesFromYourKeyboard](https://github.com/geophydog/Python/blob/master/manyLinesInput.md)
