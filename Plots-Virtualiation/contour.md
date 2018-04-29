@@ -4,7 +4,7 @@
 
 # Question Discription
 ```
-在GM地球物理常用绘图软件）中， 我们可以先用‘xyz2grd’将如(x, y, value)这样格式的文本文件转化成二进制grid网格文件，
+在GMT(The Generic Mapping Tools, 地球物理常用绘图软件）绘图中， 我们可以先用‘xyz2grd’将如(x, y, value)这样格式的文本文件转化成二进制grid网格文件，
 再用'grdiamge'命令画等值线图。 python中matplotlib.pyplot也可以做相应的事情。
 ```
 
