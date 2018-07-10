@@ -19,3 +19,4 @@ yticks([])
 savefig('eqs.pdf', dpi=300) # .png .tif等格式皆可.
 ```
 
+![pylab-equation](https://github.com/geophydog/Python/blob/master/Images/pylab-equation.png)
