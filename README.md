@@ -23,3 +23,7 @@
 ***
 
 ### :six:[InputManyLinesFromYourKeyboard](https://github.com/geophydog/Python/blob/master/manyLinesInput.md)
+
+***
+
+### :seven: [List-data-structure](https://github.com/geophydog/Python/blob/master/python-List.md)
