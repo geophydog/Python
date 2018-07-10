@@ -83,7 +83,7 @@ print(list)
 [2, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 25, 36, 49, 64, 81]
 ```
 
-### :ten: list.copy，复制list对象list1=list.copy()，而不是单纯地如list1=list，否则一旦改变list1原来的list也会跟着变
+### :one: :zero: list.copy，复制list对象list1=list.copy()，而不是单纯地如list1=list，否则一旦改变list1原来的list也会跟着变
 ```python
 list1 = list.copy()
 list2 = list
