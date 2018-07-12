@@ -30,4 +30,4 @@
 
 ***
 
-### :eight: [pylab-mathematical-equations]](https://github.com/geophydog/Python/blob/master/pylab-mathematical-equations.md)
+### :eight: [pylab-mathematical-equations]](https://github.com/geophydog/Python/blob/master/pylab-数学公式.md)
