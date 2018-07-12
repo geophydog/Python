@@ -27,3 +27,7 @@
 ***
 
 ### :seven: [List-data-structure](https://github.com/geophydog/Python/blob/master/python-List.md)
+
+***
+
+### :eight: [pylab-mathematical-equations]](https://github.com/geophydog/Python/blob/master/pylab-%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F.md)
