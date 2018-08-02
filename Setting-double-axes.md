@@ -2,6 +2,7 @@
 
 ***
 
+## code
 ```pyton
 import numpy as np
 import matplotlib.pyplot as plt
@@ -23,3 +24,6 @@ ax2.set_ylabel(r'lin(x)')
 
 plt.show()
 ```
+
+## output
+![double-axes-python](https://github.com/geophydog/Python/blob/master/Images/double-y-axis.png)
